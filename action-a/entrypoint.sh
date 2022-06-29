@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-sh -c "Greetings $INPUT_MY_NAME!"
+sh -c "Greetings $INPUT_MY_NAME"
